@@ -1,0 +1,14 @@
+numnum=21
+
+87.times do
+  puts(numnum)
+  sleep 0.5
+  numnum=numnum+1
+end
+
+
+87.times do
+  puts(numnum)
+  sleep 0.25
+  numnum=numnum-1
+end
